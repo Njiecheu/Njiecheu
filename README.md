@@ -19,7 +19,7 @@
 <!--End Intro-->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++,;+Fullstack+Developer,;Software+Engineering+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++,;+Developer,;System+and+network+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <h3 align="center">
         <samp> Hey There!... I am
