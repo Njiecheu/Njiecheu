@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer with a huge love for Django, Django Rest Framework, React.js</p>
+<p align="left">I am a Developer with a huge love for Django, Django Rest Framework, React.js</p>
 
 - 🌱 I like challenges
 - ❤ I really love programming
