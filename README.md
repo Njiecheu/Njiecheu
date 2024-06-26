@@ -7,17 +7,15 @@
 </div>
 
 <!--Header Name-->
-#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> ɪ'ᴍ Essi Junior! 
-*(Developer / Programmer) and software engineer*
+#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> ɪ'ᴍ Raphaël NJIECHEU! 
+*(Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Node.js, React-native, Mongo.db and software project management. </p>
+<p align="left">I am a Frontend Developer with a huge love for Django, Django Rest Framework, React.js</p>
 
-- ✨ As long as i have hands, i can code anything.
 - 🌱 I like challenges
 - ❤ I really love programming
-- 💻 Visit my [Portfolio](https://essijunior.com) for more details about my skills.
 <!--End Intro-->
 
 <p align="center">
@@ -25,7 +23,7 @@
 </p>
 <h3 align="center">
         <samp> Hey There!... I am
-                <b> Essi Junior <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
+                <b> Raphaël NJIECHEU <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
         </samp>
 </h3>
 
@@ -48,15 +46,10 @@
 <div align="center">
         
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,11 +67,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/EssiJunior">
-        <img alt="Essi Junior's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EssiJunior&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    <a href="https://github.com/Njiecheu">
+        <img alt="Raphaël NJIECHEU's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EssiJunior&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
-    <a href="https://github.com/EssiJunior">
-        <img alt="Essi Junior's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EssiJunior&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    <a href="https://github.com/Njiecheu">
+        <img alt="Raphaël NJIECHEU's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EssiJunior&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
 
